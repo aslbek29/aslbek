@@ -1,0 +1,11 @@
+.one {
+    color: violet ;
+}
+.th-table {
+    color: teal;
+    font-weight: bold;
+}
+[table] {
+    border: 1px;
+   
+}
